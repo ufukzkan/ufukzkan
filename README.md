@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-photo/cat-wearing-sweater-headphones-sits-computer-keyboard_245570-336.jpg)
 <h1 align="center">Hi 👋, I'm Ufuk OZKAN</h1>
-<h3 align="center">A Game Developer Developer from Smyrna</h3>
+<h3 align="center">A Developer from Smyrna</h3>
 
 - 🌱 I’m currently learning **Photon Fusion**
 
